@@ -41,7 +41,7 @@ selenium==3.7.0
 simplegeneric==0.8.1
 six==1.10.0
 splinter==0.7.7
-tensorflow==1.2.1
+tensorflow==2.6.4
 traitlets==4.3.2
 urllib3==1.22
 wcwidth==0.1.7
